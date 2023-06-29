@@ -1,0 +1,22 @@
+From b559a8c940240a35428aff8712d830644a6f4af8 Mon Sep 17 00:00:00 2001
+From: Andrii <andriyg26@icloud.com>
+Date: Thu, 29 Jun 2023 22:01:00 +0300
+Subject: [PATCH] initial commit
+
+---
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 0b48ae9..9e193f9 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+-# Class26
+\ No newline at end of file
++Andrii
++Huk
+\ No newline at end of file
+-- 
+2.41.0.windows.1
+
